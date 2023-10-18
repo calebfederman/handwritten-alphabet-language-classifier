@@ -1,5 +1,5 @@
 # Playing Card Classifier
-Introduction to Artificial Neural Networks (CS539 UW-Madison_
+Introduction to Artificial Neural Networks (CS539 UW-Madison)
 
 ## Authors 
 Caleb Federman, Connor Braun, Elias Cassis, Tate Waugh
