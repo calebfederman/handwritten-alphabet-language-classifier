@@ -1,4 +1,4 @@
-# Handwritten Alphabet Language Classifier
+# Handwritten Letter Language Classifier
 Introduction to Artificial Neural Networks (CS539 UW-Madison)
 
 ## Authors 
