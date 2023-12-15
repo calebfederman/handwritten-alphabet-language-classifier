@@ -11,6 +11,7 @@ Our objective is to develop a machine learning framework adept at recognizing an
 All files are written for google colab, and thus must be run in google colab with this folder in your root drive. Change where the data is loaded from in google drive if using a different path, or to local files if not running on colab.
 
 Processed files are uploaded. To recreate, run the relevent Load*Language*Data.ipynb.
+- Note that the dataset zip for the Russian data is too large for the entire zip to be uploaded to github. To train and test on the full dataset download it from the link below.
 
 To see results run CNN.ipynb.
 
